@@ -1,6 +1,7 @@
 # Team9-APS360-Project - Fruit Classifier 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelCondo/Team9-APS360-Project/blob/main/CheckYoSelf.ipynb)
+
 ## TODO
 
-- [Create a Colab notebook using this repo](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 - Start working on stuff
