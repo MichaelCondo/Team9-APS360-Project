@@ -1,5 +1,5 @@
 # Check Yo' Self - Team9 APS360 Project
-##### Self-Serve Checkout Enhancement Using Neural Networks and Deep Learning
+#### Self-Serve Checkout Enhancement Using Neural Networks and Deep Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelCondo/Team9-APS360-Project/blob/main/CheckYoSelf.ipynb)
 
